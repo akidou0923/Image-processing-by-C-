@@ -1,0 +1,14 @@
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.csprojAssemblyReference.cache
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.Properties.Resources.resources
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.csproj.GenerateResource.cache
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.csproj.CoreCompileInputs.cache
+E:\shixi\数字图像处理\实验一\实验一\实验一\bin\x86\Debug\实验一.pdb
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.pdb
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.express1.resources
+E:\shixi\数字图像处理\实验一\实验一\实验一\bin\x86\Debug\实验一.exe.config
+E:\shixi\数字图像处理\实验一\实验一\实验一\bin\x86\Debug\实验一.exe
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.exe
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.饱和度.resources
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.表面模糊.resources
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.原图.resources
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\x86\Debug\实验一.新图.resources

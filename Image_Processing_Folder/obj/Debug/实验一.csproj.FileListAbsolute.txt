@@ -1,0 +1,5 @@
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\Debug\实验一.csprojAssemblyReference.cache
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\Debug\实验一.Form1.resources
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\Debug\实验一.Properties.Resources.resources
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\Debug\实验一.csproj.GenerateResource.cache
+E:\shixi\数字图像处理\实验一\实验一\实验一\obj\Debug\实验一.csproj.CoreCompileInputs.cache
